@@ -18,6 +18,10 @@ end
       {"rap" => 5, "rock" => 1, 
       "country" => 3}
       
+      def Song.artists_count
+        
+      end 
+      
   
       
       
