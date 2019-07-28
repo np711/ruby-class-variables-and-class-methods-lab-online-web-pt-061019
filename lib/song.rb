@@ -1,7 +1,5 @@
 class Song 
   
-end 
-  
   def Song.count 
     @@count = 0 
     
